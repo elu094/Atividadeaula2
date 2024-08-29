@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a7681f-9949-47e2-b231-f74fac1490f1" name="Changes" comment="Criação do pojeto Java">
-      <change afterPath="$PROJECT_DIR$/src/ExemploCondicao2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "elu094"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EmerMarchi/AprendendoCondicoesJava.git",
+    "accountId": "8b25c0f2-2c90-4d3b-bfe7-f715e68118ba"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -38,6 +51,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -47,9 +61,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExemploCondicao2">
+  <component name="RunManager" selected="Application.ExemploScanner">
     <configuration name="ExemploCondicao2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExemploCondicao2" />
+      <module name="AprendendoCondicoesJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExemploScanner" />
       <module name="AprendendoCondicoesJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploScanner" />
         <item itemvalue="Application.ExemploCondicao2" />
         <item itemvalue="Application.Main" />
       </list>
@@ -72,8 +94,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
@@ -87,6 +109,7 @@
       <updated>1724281259008</updated>
       <workItem from="1724281260080" duration="2603000" />
       <workItem from="1724758228700" duration="4239000" />
+      <workItem from="1724927629898" duration="1416000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do pojeto Java">
       <option name="closed" value="true" />
@@ -116,16 +139,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do pojeto Java" />
     <option name="LAST_COMMIT_MESSAGE" value="Criação do pojeto Java" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExemploCondicao2.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
