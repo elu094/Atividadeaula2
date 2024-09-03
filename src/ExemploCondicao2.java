@@ -6,7 +6,6 @@ public class ExemploCondicao2 {
     //Valor maior que 2000 - 20%
     //Valor maior que 3000 - 40%
     //Valor menor igual a 1000 - 0%
-
     public static void main(String[] args) {
 
         double valorBruto = 3000;

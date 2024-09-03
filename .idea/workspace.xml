@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a7681f-9949-47e2-b231-f74fac1490f1" name="Changes" comment="Criação do pojeto Java">
-      <change afterPath="$PROJECT_DIR$/src/ExemploScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassificaçãodeNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassificaçãodeTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CálculodeDescontoProgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParouÍmpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemadeCálculodeSaláriocomBonificaçãoeImpostos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãodeAprovaçãoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãodeDiasdaSemanaDesafioExtra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãodeLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãodeMaioridade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãodeNúmeroPositivoNegativoouZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploCondicao2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExemploCondicao2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,43 +35,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "elu094"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elu094&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EmerMarchi/AprendendoCondicoesJava.git",
-    "accountId": "8b25c0f2-2c90-4d3b-bfe7-f715e68118ba"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EmerMarchi/AprendendoCondicoesJava.git&quot;,
+    &quot;accountId&quot;: &quot;8b25c0f2-2c90-4d3b-bfe7-f715e68118ba&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2kzL3SytffYeJ9bHwaaN4fVMy2M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ExemploCondicao2.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ExemploCondicao2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploScanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ExemploScanner">
     <configuration name="ExemploCondicao2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExemploCondicao2" />
@@ -109,7 +124,11 @@
       <updated>1724281259008</updated>
       <workItem from="1724281260080" duration="2603000" />
       <workItem from="1724758228700" duration="4239000" />
-      <workItem from="1724927629898" duration="1416000" />
+      <workItem from="1724927629898" duration="3500000" />
+      <workItem from="1724931745482" duration="16000" />
+      <workItem from="1725019144392" duration="24000" />
+      <workItem from="1725364309885" duration="721000" />
+      <workItem from="1725365042146" duration="2680000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do pojeto Java">
       <option name="closed" value="true" />
@@ -119,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724282349448</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criação do pojeto Java">
+      <option name="closed" value="true" />
+      <created>1724929207578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724929207578</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
